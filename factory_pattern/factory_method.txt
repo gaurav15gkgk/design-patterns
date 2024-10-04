@@ -1,0 +1,1 @@
+In factory method the direct object creation is replaced with a factory method which will create the desired object according to the conditional statements.
